@@ -1,0 +1,99 @@
+body {
+    background-color: #242424;
+  }
+  
+  .form-para {
+    font-family: "Playfair Display", serif;
+    color: white;
+    font-size: 3rem;
+    text-align: left;
+    padding-top: 50px;
+  }
+  
+  .input-header {
+    font-family: "Playfair Display", serif;
+    color: white;
+    font-size: 1rem;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .btn {
+    font-family: "Playfair Display", serif;
+    margin-top: 20px;
+    background-color: black;
+  }
+  
+  .design-quote {
+    font-family: "Playfair Display", serif;
+    color: #e5e1c7;
+    font-size: 1.5rem;
+    text-align: left;
+    padding-top: 50px;
+  }
+  
+  ::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: pink;
+    font-family: "Playfair Display", serif;
+  }
+  ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: pink;
+    font-family: "Playfair Display", serif;
+  }
+  :-ms-input-placeholder {
+    /* IE 10+ */
+    color: pink;
+    font-family: "Playfair Display", serif;
+  }
+  :-moz-placeholder {
+    /* Firefox 18- */
+    color: pink;
+    font-family: "Playfair Display", serif;
+  }
+  
+  .design-phil {
+    font-family: "Playfair Display", serif;
+    color: white;
+    font-size: 1rem;
+    text-align: left;
+    padding-top: 50px;
+  }
+  
+  .brand {
+    font-family: "Prata";
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .drop {
+    font-family: "Prata";
+    color: #e5e1c7;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .intro {
+    font-family: "Playfair Display", serif;
+    color: #e5e1c7;
+    font-size: 3rem;
+    text-align: left;
+    padding-top: 100px;
+  }
+  
+  .intro-sen {
+    font-family: "Playfair Display", serif;
+    color: white;
+    font-size: 1.5rem;
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 40rem;
+  }
+  
+  .mobile-button {
+    color: white;
+  }
+  
